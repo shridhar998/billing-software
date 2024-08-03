@@ -1,0 +1,400 @@
+[
+  {
+    "bill_no": 1,
+    "partyName": "Shridhar",
+    "bill": [
+      {
+        "idx": 0,
+        "item": "916 Bali",
+        "pcs": 1,
+        "wt": 4.34,
+        "mkg": 14,
+        "rate": 6785,
+        "amount": "33569"
+      },
+      {
+        "idx": 1,
+        "item": "750 Har",
+        "pcs": 1,
+        "wt": 12.67,
+        "mkg": 12,
+        "rate": 5785,
+        "amount": "82091"
+      }
+    ],
+    "sgst": "1734.90",
+    "cgst": "1734.90",
+    "amount": 119130,
+    "date": "02/07/2024",
+    "amount_words": "one lakh nineteen thousand one hundred thirty"
+  },
+  {
+    "bill_no": 2,
+    "partyName": "Shridhar",
+    "bill": [
+      {
+        "idx": 0,
+        "item": "916 Gold Ornaments",
+        "pcs": 1,
+        "wt": 67,
+        "mkg": 13,
+        "rate": 6785,
+        "amount": "513692"
+      }
+    ],
+    "sgst": "7705.38",
+    "cgst": "7705.38",
+    "amount": 529103,
+    "date": "02/07/2024",
+    "amount_words": "five lakh twenty nine thousand one hundred three"
+  },
+  {
+    "bill_no": 3,
+    "partyName": "Dl Shop",
+    "bill": [
+      {
+        "idx": 0,
+        "item": "916 Chain",
+        "pcs": 1,
+        "wt": 12,
+        "mkg": 12,
+        "rate": 6785,
+        "amount": "91190"
+      }
+    ],
+    "sgst": "1367.85",
+    "cgst": "1367.85",
+    "amount": 93926,
+    "date": "02/07/2024",
+    "amount_words": "ninety three thousand nine hundred twenty six"
+  },
+  {
+    "bill_no": 4,
+    "partyName": "Satendra ji Sadhpur",
+    "bill": [
+      {
+        "idx": 0,
+        "item": "750 Jhumka",
+        "pcs": 1,
+        "wt": 6.23,
+        "mkg": 12,
+        "rate": 5785,
+        "amount": "40365"
+      }
+    ],
+    "sgst": "605.48",
+    "cgst": "605.48",
+    "amount": 41576,
+    "date": "02/07/2024",
+    "amount_words": "forty one thousand five hundred seventy six"
+  },
+  {
+    "bill_no": 5,
+    "partyName": "Siyaram",
+    "bill": [
+      {
+        "idx": 0,
+        "item": "916 Jhumka",
+        "pcs": 1,
+        "wt": 5.12,
+        "mkg": 12.4,
+        "rate": 6776,
+        "amount": "38995"
+      }
+    ],
+    "sgst": "584.92",
+    "cgst": "584.92",
+    "amount": 40165,
+    "date": "02/07/2024",
+    "amount_words": "forty thousand one hundred sixty five"
+  },
+  {
+    "bill_no": 6,
+    "partyName": "Huntry",
+    "bill": [
+      {
+        "idx": 0,
+        "item": "750 2 kunda",
+        "pcs": 1,
+        "wt": 12,
+        "mkg": 12,
+        "rate": 5786,
+        "amount": "77764"
+      }
+    ],
+    "sgst": "1166.46",
+    "cgst": "1166.46",
+    "amount": 80097,
+    "date": "02/07/2024",
+    "amount_words": "eighty thousand ninety seven"
+  },
+  {
+    "bill_no": 7,
+    "partyName": "PCJ",
+    "bill": [
+      {
+        "idx": 0,
+        "item": "916 Chain",
+        "pcs": 1,
+        "wt": 56,
+        "mkg": 10,
+        "rate": 6785,
+        "amount": "417956"
+      }
+    ],
+    "sgst": "6269.34",
+    "cgst": "6269.34",
+    "amount": 430495,
+    "date": "02/07/2024",
+    "amount_words": "four lakh thirty thousand four hundred ninety five"
+  },
+  {
+    "bill_no": 8,
+    "partyName": "Shridhar",
+    "bill": [
+      {
+        "idx": 0,
+        "item": "750 Gold Ornaments",
+        "pcs": 1,
+        "wt": 1.6,
+        "mkg": 15,
+        "rate": 5886,
+        "amount": "10830"
+      }
+    ],
+    "sgst": "162.45",
+    "cgst": "162.45",
+    "amount": 11155,
+    "date": "03/07/2024",
+    "amount_words": "eleven thousand one hundred fifty five"
+  },
+  {
+    "bill_no": 9,
+    "partyName": "Prasad Jewellers",
+    "bill": [
+      {
+        "idx": 0,
+        "item": "Silver Bartan",
+        "pcs": 1,
+        "wt": 34,
+        "mkg": 25,
+        "rate": 90,
+        "amount": "3825"
+      }
+    ],
+    "sgst": "57.38",
+    "cgst": "57.38",
+    "amount": 3940,
+    "date": "03/07/2024",
+    "amount_words": "three thousand nine hundred forty"
+  },
+  {
+    "bill_no": 10,
+    "partyName": "Dl Shop",
+    "bill": [
+      {
+        "idx": 0,
+        "item": "916 2 kunda",
+        "pcs": 1,
+        "wt": 6.91,
+        "mkg": 14,
+        "rate": 6785,
+        "amount": "53448"
+      }
+    ],
+    "sgst": "801.72",
+    "cgst": "801.72",
+    "amount": 55051,
+    "date": "03/07/2024",
+    "amount_words": "fifty five thousand fifty one"
+  },
+  {
+    "bill_no": 11,
+    "partyName": "Raja SP",
+    "bill": [
+      {
+        "idx": 0,
+        "item": "916 Jhala",
+        "pcs": 1,
+        "wt": 9.11,
+        "mkg": 13,
+        "rate": 6785,
+        "amount": "69847"
+      }
+    ],
+    "sgst": "1047.70",
+    "cgst": "1047.70",
+    "amount": 71942,
+    "date": "03/07/2024",
+    "amount_words": "seventy one thousand nine hundred forty two"
+  },
+  {
+    "bill_no": 12,
+    "partyName": "Siyaram",
+    "bill": [
+      {
+        "idx": 0,
+        "item": "750 2 kunda",
+        "pcs": 1,
+        "wt": 4.62,
+        "mkg": 13,
+        "rate": 5788,
+        "amount": "30217"
+      }
+    ],
+    "sgst": "453.25",
+    "cgst": "453.25",
+    "amount": 31124,
+    "date": "03/07/2024",
+    "amount_words": "thirty one thousand one hundred twenty four"
+  },
+  {
+    "bill_no": 13,
+    "partyName": "Satendra ji Sadhpur",
+    "bill": [
+      {
+        "idx": 0,
+        "item": "750 Coy jhumka",
+        "pcs": 1,
+        "wt": 7.84,
+        "mkg": 15,
+        "rate": 5885,
+        "amount": "53059"
+      }
+    ],
+    "sgst": "795.88",
+    "cgst": "795.88",
+    "amount": 54651,
+    "date": "03/07/2024",
+    "amount_words": "fifty four thousand six hundred fifty one"
+  },
+  {
+    "bill_no": 14,
+    "partyName": "Shridhar",
+    "bill": [
+      {
+        "idx": 0,
+        "item": "916 Pola",
+        "pcs": 1,
+        "wt": 5.9,
+        "mkg": 20,
+        "rate": 6885,
+        "amount": "48746"
+      }
+    ],
+    "sgst": "731.19",
+    "cgst": "731.19",
+    "amount": 50208,
+    "date": "03/07/2024",
+    "amount_words": "fifty thousand two hundred eight"
+  },
+  {
+    "bill_no": 15,
+    "partyName": "SK",
+    "bill": [
+      {
+        "idx": 0,
+        "item": "750 Nice chain",
+        "pcs": 1,
+        "wt": 4.21,
+        "mkg": 10,
+        "rate": 5775,
+        "amount": "26744"
+      }
+    ],
+    "sgst": "401.16",
+    "cgst": "401.16",
+    "amount": 27546,
+    "date": "03/07/2024",
+    "amount_words": "twenty seven thousand five hundred forty six"
+  },
+  {
+    "bill_no": 16,
+    "partyName": "Dl Shop",
+    "bill": [
+      {
+        "idx": 0,
+        "item": "916 Chain",
+        "pcs": 1,
+        "wt": 10.99,
+        "mkg": 12,
+        "rate": 6886,
+        "amount": "84758"
+      }
+    ],
+    "sgst": "1271.37",
+    "cgst": "1271.37",
+    "amount": 87301,
+    "date": "03/07/2024",
+    "amount_words": "eighty seven thousand three hundred one"
+  },
+  {
+    "bill_no": 17,
+    "partyName": "Shridhar",
+    "bill": [
+      {
+        "idx": 0,
+        "item": "916 Earrings",
+        "pcs": 1,
+        "wt": 6.55,
+        "mkg": 13,
+        "rate": 6885,
+        "amount": "50959"
+      }
+    ],
+    "sgst": "764.38",
+    "cgst": "764.38",
+    "amount": 52488,
+    "date": "03/07/2024",
+    "amount_words": "fifty two thousand four hundred eighty eight"
+  },
+  {
+    "bill_no": 18,
+    "partyName": "Suman",
+    "bill": [
+      {
+        "idx": 0,
+        "item": "916 2 kunda",
+        "pcs": 1,
+        "wt": 5.43,
+        "mkg": 13,
+        "rate": 6885,
+        "amount": "42246"
+      },
+      {
+        "idx": 1,
+        "item": "750 Jhala",
+        "pcs": 1,
+        "wt": 7.09,
+        "mkg": 6,
+        "rate": 5785,
+        "amount": "43477"
+      }
+    ],
+    "sgst": "1285.85",
+    "cgst": "1285.85",
+    "amount": 88295,
+    "date": "05/07/2024",
+    "amount_words": "eighty eight thousand two hundred ninety five"
+  },
+  {
+    "bill_no": 19,
+    "partyName": "Satakshi",
+    "bill": [
+      {
+        "idx": 0,
+        "item": "916 LR",
+        "pcs": 1,
+        "wt": 4.21,
+        "mkg": 15,
+        "rate": 6885,
+        "amount": "33334"
+      }
+    ],
+    "sgst": "500.01",
+    "cgst": "500.01",
+    "amount": 34334,
+    "date": "05/07/2024",
+    "amount_words": "thirty four thousand three hundred thirty four"
+  }
+]

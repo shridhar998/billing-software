@@ -1,0 +1,47 @@
+[
+    {
+        "partyCode":"1",
+        "partyName":"Shridhar",
+        "phone1":"8003824422",
+        "phone2":"9079508059",
+        "address":"",
+        "dob": "",
+        "anniversary":""
+    },
+    {
+        "partyCode":"2",
+        "partyName":"Suman",
+        "phone1":"9431251837",
+        "phone2":"7004282185",
+        "address":"",
+        "dob": "",
+        "anniversary":""
+    },
+    {
+        "partyCode":"3",
+        "partyName":"Raju Ji",
+        "phone1":"",
+        "phone2":"",
+        "address":"",
+        "dob": "",
+        "anniversary":""
+    },
+    {
+        "partyCode":"4",
+        "partyName":"Suhani",
+        "phone1":"",
+        "phone2":"",
+        "address":"",
+        "dob": "",
+        "anniversary":""
+    },
+    {
+        "partyCode":"5",
+        "partyName":"Satakshi",
+        "phone1":"",
+        "phone2":"",
+        "address":"",
+        "dob": "",
+        "anniversary":""
+    }
+]
